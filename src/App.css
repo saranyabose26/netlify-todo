@@ -1,0 +1,44 @@
+.mainDiv{
+  
+  margin-top: 40px;
+  /* justify-content: center; */
+
+}
+.btnSubmit{
+  background-color: #00cc99;
+  color: white;
+  border-radius: 5px;
+  border-style: solid; 
+  border-width: 0px;
+}
+.btnedit{
+  background-color: #00cc99;
+  color: white;
+  border-radius: 5px;
+  border-style: solid; 
+  border-width: 0px;
+}
+.btndelete{
+  background-color: #f36a29;
+  color: white;
+  border-radius: 5px;
+  border-style: solid; 
+  border-width: 0px;
+}
+.headerName{
+  display: flex; 
+  justify-content: center;
+  text-align: center;
+  color: #00cc99;
+}
+.center-container {
+  display: flex;
+  justify-content: center;
+}
+.textBox{
+  /* background-color: #00cc99; */
+  border-radius: 5px;
+  border-color: #00cc99;
+  border-style: solid; 
+  border-width: 1px;
+}
